@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">Projeto voltado para a plataforma Pague o Aluguel</p>
-<h4 align="center">✅ POA API 🚀 Concluído ✅</h4>
+<h4 align="center">✅ POA API Funcionando ✅</h4>
 <br/>
 
 ## :information_source: Sobre o projeto:
